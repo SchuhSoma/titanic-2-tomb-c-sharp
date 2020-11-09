@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\bin\Debug\TitanicTMB_Dolgozat.exe.config
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\bin\Debug\TitanicTMB_Dolgozat.exe
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\bin\Debug\TitanicTMB_Dolgozat.pdb
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\obj\Debug\TitanicTMB_Dolgozat.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\obj\Debug\TitanicTMB_Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\obj\Debug\TitanicTMB_Dolgozat.exe
+C:\Users\Soma\Documents\C#2\TitanicTMB_Dolgozat\TitanicTMB_Dolgozat\obj\Debug\TitanicTMB_Dolgozat.pdb
